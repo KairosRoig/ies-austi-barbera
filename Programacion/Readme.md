@@ -1,7 +1,7 @@
 # En este repositorio contiene le nombre de la asignatura , el nombre del docente asignado y el curso
 
-## Asignatura : Programacion
+### Asignatura : Programacion
 
-## Docente : Paco
+### Docente : Paco
 
-## Curso : 1DAM
+### Curso : 1DAM
