@@ -1,7 +1,7 @@
 # En este repositorio contiene le nombre de la asignatura , el nombre del docente asignado y el curso
 
-## Asignatura : Base de Datos
+### Asignatura : Base de Datos
 
-## Docente : Ima
+### Docente : Ima
 
-## Curso : 1DAM
+### Curso : 1DAM
