@@ -2,9 +2,14 @@
 
 ## Modulo
 
-+Programacion
-+Base de datos
-+Entrono de desarrollo
-+Sistemas informaticos
-+Lenguaje de marcas
-+Ingles
+* Programacion
+
+* Base de datos
+
+* Entrono de desarrollo
+
+* Sistemas informaticos
+
+* Lenguaje de marcas
+
+* Ingles
